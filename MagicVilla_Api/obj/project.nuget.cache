@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VpF3QEYQgZlum7qwODeyTNA6FS+WKiYheYXwOBYMEg+Qecx5qazXrcesGZBC42a5gzw56Ac9HcHlEGvE7Hm2AQ==",
+  "dgSpecHash": "TKcLgCe87qzPso3Q0X6qD/T26ecQguy8NV8mzyObgdSSY18yijxDAK36xNNAc+yhU7tukTbWQIQdDCAEEn8glQ==",
   "success": true,
-  "projectFilePath": "D:\\repos\\CursoNet7\\MagicVilla\\MagicVilla_Api\\MagicVilla_Api.csproj",
+  "projectFilePath": "D:\\repos\\CursoNet7\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Christian Sanabria\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\Christian Sanabria\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
